@@ -1,7 +1,11 @@
 {
   "name": "karma-htmlmin-preprocessor",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A karma preprocessor plugin. Minifies Html files. Useful when using other preprocessors such as karma-ng-html2js-preprocessor and testing directive rendering.",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/cliechty/karma-htmlmin-preprocessor.git"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
